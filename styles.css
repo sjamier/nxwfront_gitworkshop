@@ -1,0 +1,13 @@
+html { font-family: verdana, arial, sans-serif; font-size: 62.5%;}
+body { font-size: 1.2em;}
+
+h1 { font-size: 3em;}
+
+.container { background-color: #d0e0f0;}
+.header { }
+.header h1 { padding: 50px 0 25px 150px;}
+.header_menu { background-color: #def;}
+.header_menu ul { list-style-type: none; width: 100%; padding: 0; display: table;}
+.header_menu ul li { min-width: 25%; display: table-cell;}
+.header_menu ul li a { font-size: 1.4em; text-align: center; padding: 10px 0; display: block;}
+.header_menu ul li a:hover { background-color: #f6f6fb; cursor: pointer;}
